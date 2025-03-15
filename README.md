@@ -53,9 +53,3 @@ Os valores são gerados conforme a regra anterior
 ## Rounds 
 
 Rounds são "partidas" de bingo, que possuem um tipo de cartela definido, um conjunto de cartelas participantes, e os números já sorteados
-
-## Contribuições
-
-Abra um PR (via fork)! ❤️
-
-Fez um front-end para as renderizar as cartelas? Fala comigo [aqui](https://www.linkedin.com/in/vitorbuxbaum/)!
